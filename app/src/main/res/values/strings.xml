@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Memoria Interna</string>
+    <string name="mensaje1">ESCRIBE ALGO AQUI ABAJO:</string>
+    <string name="action_settings">Settings</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="Abrir">ABRIR</string>
+</resources>
